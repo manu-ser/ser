@@ -720,3 +720,4 @@
 [04Jan2025 07:49:53.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Not even afraid of death]
 [04Jan2025 07:49:53.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Back to childhood]
 [04Jan2025 07:50:09.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Paul Atreides]
+[04Jan2025 07:59:23.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Maire'/88107, l='ServerLevel[🗡No ties amigos?☠]', x=1591.00, y=50.00, z=1669.34] died: death.attack.mob.player
