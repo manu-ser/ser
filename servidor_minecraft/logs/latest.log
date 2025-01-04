@@ -1728,3 +1728,18 @@
 [04Jan2025 01:53:32.752] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
 [04Jan2025 01:53:32.756] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
 [04Jan2025 01:53:32.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4201ms or 84 ticks behind
+[04Jan2025 02:04:21.419] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[04Jan2025 02:04:21.421] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[04Jan2025 02:04:26.144] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[04Jan2025 02:04:26.145] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[04Jan2025 02:06:44.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[04Jan2025 02:06:44.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[04Jan2025 02:06:44.834] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[04Jan2025 02:10:43.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:60875] logged in with entity id 2285 at (832.3426342631004, 63.0, -16.01932742154562)
+[04Jan2025 02:10:43.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[04Jan2025 02:10:43.498] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[04Jan2025 02:10:43.500] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[04Jan2025 02:10:46.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3451ms or 69 ticks behind
+[04Jan2025 02:11:13.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[04Jan2025 02:11:13.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[04Jan2025 02:11:13.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
