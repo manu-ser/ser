@@ -61,14 +61,19 @@
       "fen": "2024-12-20 01:24:58 +0000",
       "pine_taiga": "2024-12-20 02:39:10 +0000",
       "muddy_river": "2024-12-20 01:05:47 +0000",
+      "autumnal_maple_forest": "2025-01-04 06:38:48 +0000",
       "willow_forest": "2024-12-11 07:35:47 +0000",
       "frozen_tundra": "2024-12-19 23:54:13 +0000",
       "rocky_reef": "2025-01-02 03:12:51 +0000",
+      "poppy_fields": "2025-01-04 06:43:24 +0000",
       "grassy_beach": "2024-12-11 05:53:51 +0000",
       "scorching_caves": "2024-12-12 06:19:42 +0000",
       "blackwood_taiga": "2024-12-11 07:08:41 +0000",
       "rocky_meadow": "2024-12-11 19:17:45 +0000",
       "mycotoxic_undergrowth": "2024-12-12 14:18:35 +0000",
+      "ochard": "2025-01-04 06:37:40 +0000",
+      "flower_fields": "2025-01-04 06:37:38 +0000",
+      "highland_fields": "2025-01-04 06:31:24 +0000",
       "maple_forest": "2024-12-14 04:19:26 +0000",
       "tropical_river": "2025-01-02 03:14:48 +0000",
       "magnolia_highlands": "2024-12-11 07:28:38 +0000",
@@ -86,6 +91,7 @@
       "saguaro_desert": "2025-01-02 03:15:07 +0000",
       "temperate_grove": "2024-12-11 07:31:53 +0000",
       "cold_river": "2024-12-14 04:19:15 +0000",
+      "pine_slopes": "2025-01-04 06:31:39 +0000",
       "baobab_savanna": "2025-01-02 03:16:56 +0000",
       "grassland": "2024-12-21 04:29:45 +0000",
       "prairie": "2024-12-21 04:32:31 +0000",
@@ -106,12 +112,17 @@
       "fen": "2024-12-20 01:24:58 +0000",
       "pine_taiga": "2024-12-20 02:39:10 +0000",
       "muddy_river": "2024-12-20 01:05:47 +0000",
+      "autumnal_maple_forest": "2025-01-04 06:38:48 +0000",
       "willow_forest": "2024-12-11 07:35:47 +0000",
       "frozen_tundra": "2024-12-19 23:54:13 +0000",
       "rocky_reef": "2025-01-02 03:12:51 +0000",
+      "poppy_fields": "2025-01-04 06:43:24 +0000",
       "grassy_beach": "2024-12-11 05:53:51 +0000",
       "blackwood_taiga": "2024-12-11 07:08:41 +0000",
       "rocky_meadow": "2024-12-11 19:17:45 +0000",
+      "ochard": "2025-01-04 06:37:40 +0000",
+      "flower_fields": "2025-01-04 06:37:38 +0000",
+      "highland_fields": "2025-01-04 06:31:24 +0000",
       "maple_forest": "2024-12-14 04:19:26 +0000",
       "tropical_river": "2025-01-02 03:14:48 +0000",
       "magnolia_highlands": "2024-12-11 07:28:38 +0000",
@@ -126,6 +137,7 @@
       "saguaro_desert": "2025-01-02 03:15:07 +0000",
       "temperate_grove": "2024-12-11 07:31:53 +0000",
       "cold_river": "2024-12-14 04:19:15 +0000",
+      "pine_slopes": "2025-01-04 06:31:39 +0000",
       "baobab_savanna": "2025-01-02 03:16:56 +0000",
       "grassland": "2024-12-21 04:29:45 +0000",
       "prairie": "2024-12-21 04:32:31 +0000",
@@ -1042,6 +1054,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-04 06:29:11 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-20 01:24:11 +0000",
       "minecraft:taiga": "2024-12-20 01:21:55 +0000",
       "minecraft:deep_ocean": "2024-12-28 05:17:45 +0000",
@@ -7570,6 +7583,12 @@
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-01-04 05:13:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-04 06:34:29 +0000"
     },
     "done": true
   },
