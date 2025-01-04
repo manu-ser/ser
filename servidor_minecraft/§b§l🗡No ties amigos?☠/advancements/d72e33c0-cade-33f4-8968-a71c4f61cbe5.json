@@ -1068,6 +1068,7 @@
       "minecraft:stony_shore": "2024-12-11 07:31:57 +0000",
       "minecraft:snowy_taiga": "2024-12-18 05:35:01 +0000",
       "minecraft:swamp": "2024-12-20 01:24:52 +0000",
+      "minecraft:jagged_peaks": "2025-01-04 06:55:17 +0000",
       "minecraft:cold_ocean": "2024-12-12 03:43:27 +0000",
       "minecraft:forest": "2024-12-11 18:37:55 +0000",
       "minecraft:lush_caves": "2024-12-11 06:26:30 +0000",
@@ -7589,6 +7590,48 @@
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-01-04 06:34:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-01-04 06:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-01-04 06:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-01-04 06:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-01-04 06:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-01-04 07:06:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-01-04 06:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-01-04 07:03:37 +0000"
     },
     "done": true
   },
