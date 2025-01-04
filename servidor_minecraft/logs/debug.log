@@ -8683,3 +8683,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jan2025 07:59:18.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [04Jan2025 07:59:18.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
 [04Jan2025 07:59:23.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Maire'/88107, l='ServerLevel[🗡No ties amigos?☠]', x=1591.00, y=50.00, z=1669.34] died: death.attack.mob.player
+[04Jan2025 08:03:08.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[04Jan2025 08:03:08.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[04Jan2025 08:03:08.644] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of manu
+[04Jan2025 08:03:08.645] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[04Jan2025 08:03:08.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[04Jan2025 08:03:08.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[04Jan2025 08:03:08.662] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ADMIN
+[04Jan2025 08:03:08.662] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[04Jan2025 08:04:18.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[04Jan2025 08:04:18.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[04Jan2025 08:09:18.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[04Jan2025 08:09:18.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
