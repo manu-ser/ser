@@ -458,3 +458,26 @@
 [04Jan2025 05:23:03.621] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-59, z=246}
 [04Jan2025 05:23:07.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1687, y:62, z:-1549, dim:minecraft:overworld]
 [04Jan2025 05:23:28.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4678ms or 93 ticks behind
+[04Jan2025 05:27:07.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=797, y=61, z=-33} BlockPos{x=796, y=60, z=-33}
+[04Jan2025 05:27:50.636] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:27:50.642] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:27:51.000] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:27:51.000] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:27:51.001] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:27:51.001] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:27:51.028] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:28:03.648] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:28:03.649] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:28:03.946] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:28:03.947] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 05:30:35.856] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[04Jan2025 05:30:35.860] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[04Jan2025 05:30:58.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[04Jan2025 05:34:26.351] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[04Jan2025 05:34:26.355] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[04Jan2025 05:36:57.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> t
+[04Jan2025 05:44:52.668] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Velma}[style={}] has been infected
+[04Jan2025 05:44:53.643] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Velma}[style={}] has been infected
+[04Jan2025 05:44:56.594] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Velma}[style={}] has been infected
+[04Jan2025 05:47:03.978] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[04Jan2025 05:47:03.979] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
