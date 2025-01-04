@@ -6828,12 +6828,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_familiar_receptacle": "2024-12-30 05:45:08 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2024-12-30 05:50:30 +0000"
@@ -7482,6 +7476,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-01-02 06:36:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-01-02 06:37:04 +0000"
@@ -7503,12 +7503,6 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-01-02 06:37:04 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
-    "criteria": {
-      "has_log": "2025-01-02 06:36:50 +0000"
     },
     "done": true
   },
@@ -7545,6 +7539,31 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-01-04 05:00:58 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-01-04 05:00:58 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-01-04 05:00:58 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-01-04 05:00:58 +0000",
+      "inv_changed-diamond": "2025-01-04 05:00:58 +0000"
     },
     "done": true
   },

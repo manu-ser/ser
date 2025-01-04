@@ -253,3 +253,20 @@
 [04Jan2025 04:53:58.453] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
 [04Jan2025 04:53:58.454] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
 [04Jan2025 04:54:30.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <esemalahurnig> me borro todo
+[04Jan2025 04:54:42.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: esemalahurnig lost connection: Disconnected
+[04Jan2025 04:54:42.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: esemalahurnig left the game
+[04Jan2025 04:54:42.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client esemalahurnig
+[04Jan2025 05:00:42.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lina'/2905, l='ServerLevel[🗡No ties amigos?☠]', x=862.71, y=64.56, z=-17.44] died, message: 'Lina suffocated in a wall'
+[04Jan2025 05:00:42.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lina'/2905, l='ServerLevel[🗡No ties amigos?☠]', x=862.71, y=64.56, z=-17.44] died: Lina suffocated in a wall
+[04Jan2025 05:00:58.777] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'terramity:ranged_damage_bonus'
+[04Jan2025 05:00:58.778] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:ankh_of_pray removed now.
+[04Jan2025 05:00:58.780] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:ankh_of_pray removed now.
+[04Jan2025 05:00:58.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.29.133.87:60007] logged in with entity id 4999 at (-1129.920988725571, 62.28671999606371, 2605.300000011921)
+[04Jan2025 05:00:58.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[04Jan2025 05:01:01.239] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[04Jan2025 05:01:01.241] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[04Jan2025 05:01:01.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[04Jan2025 05:01:47.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[04Jan2025 05:02:03.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4931ms or 98 ticks behind
+[04Jan2025 05:04:15.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[04Jan2025 05:04:33.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind

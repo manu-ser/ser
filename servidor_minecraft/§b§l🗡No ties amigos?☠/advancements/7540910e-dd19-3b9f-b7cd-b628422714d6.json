@@ -7818,6 +7818,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-01-02 06:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-01-02 06:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-01-02 06:15:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_leggings": {
     "criteria": {
       "has_item": "2025-01-02 06:18:18 +0000"
@@ -7830,33 +7848,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-01-02 06:15:10 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-01-02 06:18:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-01-02 06:14:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_true_sight": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-02 06:39:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-01-02 06:14:02 +0000"
     },
     "done": true
   },
@@ -7869,6 +7863,37 @@
   "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2025-01-02 06:18:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-02 06:39:24 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-01-04 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-01-04 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-01-04 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-01-04 04:52:34 +0000",
+      "inv_changed-diamond": "2025-01-04 04:52:34 +0000"
     },
     "done": true
   },
