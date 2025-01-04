@@ -7874,6 +7874,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/magnolia_button": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-01-04 04:52:34 +0000"
@@ -7883,6 +7889,12 @@
   "regions_unexplored:recipes/decorations/brimwood_hanging_sign": {
     "criteria": {
       "has_stripped_brimwood_log": "2025-01-04 05:07:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
     },
     "done": true
   },
@@ -7898,9 +7910,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-01-04 04:52:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
     },
     "done": true
   },
@@ -7922,9 +7946,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-01-04 05:08:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
     },
     "done": true
   },
@@ -7970,9 +8012,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-01-04 05:46:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
     "criteria": {
       "has_brimwood_planks": "2025-01-04 05:06:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
     },
     "done": true
   },
@@ -7986,6 +8046,12 @@
   "regions_unexplored:recipes/redstone/brimwood_door": {
     "criteria": {
       "has_brimwood_planks": "2025-01-04 05:06:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-01-04 05:46:26 +0000"
     },
     "done": true
   },
