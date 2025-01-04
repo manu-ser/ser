@@ -517,6 +517,7 @@
       "minecraft:stony_shore": "2024-12-11 06:52:50 +0000",
       "minecraft:snowy_plains": "2024-12-18 05:26:01 +0000",
       "minecraft:snowy_taiga": "2024-12-18 05:27:09 +0000",
+      "minecraft:grove": "2025-01-04 07:15:48 +0000",
       "minecraft:jagged_peaks": "2025-01-04 06:54:51 +0000",
       "minecraft:cold_ocean": "2024-12-12 01:44:52 +0000",
       "minecraft:forest": "2024-12-11 07:40:17 +0000",
@@ -8328,6 +8329,42 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-04 06:13:18 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_snowy": "2025-01-04 07:15:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-01-04 07:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-01-04 07:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-01-04 07:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-01-04 07:12:22 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-04 07:15:48 +0000"
     },
     "done": true
   },

@@ -8612,3 +8612,56 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Jan2025 07:09:12.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [04Jan2025 07:09:12.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
 [04Jan2025 07:09:19.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! 8.786285584318648,5.0,-0.085904343381209
+[04Jan2025 07:10:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[04Jan2025 07:12:19.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Another Brick in the Wall]
+[04Jan2025 07:12:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [The Song of the Dragons]
+[04Jan2025 07:12:54.556] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:12:54.557] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:12:54.557] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:12:54.557] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:13:14.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[04Jan2025 07:13:21.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[04Jan2025 07:13:34.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1665, y:134, z:-2509, dim:minecraft:overworld]
+[04Jan2025 07:14:10.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1666, y:134, z:-2516, dim:minecraft:overworld]
+[04Jan2025 07:14:12.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[04Jan2025 07:14:12.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[04Jan2025 07:15:48.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Safe Haven]
+[04Jan2025 07:15:48.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Safe Haven]
+[04Jan2025 07:15:52.358] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:15:52.360] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:15:55.729] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:15:55.731] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:17:00.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1566, y=93, z=-2579} BlockPos{x=1565, y=94, z=-2579}
+[04Jan2025 07:18:30.223] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:30.224] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:30.225] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:30.383] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:30.383] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:30.383] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:34.033] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:34.034] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:34.034] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:34.034] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:40.542] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:40.765] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:40.766] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:40.768] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:40.768] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:43.191] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:43.689] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:43.691] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:43.694] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:18:43.696] [Worker-Main-35/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[04Jan2025 07:19:12.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[04Jan2025 07:19:12.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[04Jan2025 07:20:18.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
+[04Jan2025 07:20:38.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1109, y:62, z:-2104, dim:minecraft:overworld]
+[04Jan2025 07:21:20.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Wingin' It]
+[04Jan2025 07:21:54.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[04Jan2025 07:22:22.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [My Name is Nobody]
+[04Jan2025 07:24:16.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[04Jan2025 07:24:16.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[04Jan2025 07:25:46.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1064, y:62, z:-1526, dim:minecraft:overworld]
+[04Jan2025 07:28:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1173, y:52, z:-1393, dim:minecraft:overworld]
+[04Jan2025 07:29:16.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[04Jan2025 07:29:16.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
