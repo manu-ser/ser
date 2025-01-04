@@ -483,3 +483,17 @@
 [04Jan2025 05:47:03.979] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [04Jan2025 05:49:59.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Your First Receptacle]
 [04Jan2025 05:50:31.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[04Jan2025 05:58:18.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[04Jan2025 05:58:18.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[04Jan2025 05:58:18.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[04Jan2025 05:59:06.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[04Jan2025 05:59:06.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[04Jan2025 05:59:06.293] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[04Jan2025 05:59:17.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:40463] logged in with entity id 38910 at (832.0849273238837, 63.0, -20.00351865454621)
+[04Jan2025 05:59:17.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[04Jan2025 05:59:18.204] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[04Jan2025 05:59:18.205] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[04Jan2025 06:01:21.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.29.133.87:34835] logged in with entity id 40899 at (1685.475822901346, 115.0, -1588.8034815868984)
+[04Jan2025 06:01:21.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[04Jan2025 06:01:23.053] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[04Jan2025 06:01:23.054] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
