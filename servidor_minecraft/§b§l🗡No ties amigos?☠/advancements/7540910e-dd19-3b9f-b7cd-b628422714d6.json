@@ -7880,39 +7880,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/magnolia_button": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-01-04 04:52:34 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/brimwood_hanging_sign": {
-    "criteria": {
-      "has_stripped_brimwood_log": "2025-01-04 05:07:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-01-04 07:03:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
-    "criteria": {
-      "has_brimwood_planks": "2025-01-04 05:06:53 +0000"
     },
     "done": true
   },
@@ -7922,45 +7892,16 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/magnolia_fence": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-01-04 04:52:34 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
+  "toms_storage:unlock_dia_pearl": {
     "criteria": {
-      "bestiary": "2025-01-04 07:12:52 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_snowy": "2025-01-04 06:57:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
-    "criteria": {
-      "has_brimwood_planks": "2025-01-04 05:06:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/stripped_brimwood_wood": {
-    "criteria": {
-      "has_log": "2025-01-04 05:07:28 +0000"
+      "inv_changed-ender_pearl": "2025-01-04 04:52:34 +0000",
+      "inv_changed-diamond": "2025-01-04 04:52:34 +0000"
     },
     "done": true
   },
@@ -7970,51 +7911,21 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
     "criteria": {
-      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+      "has_log": "2025-01-04 05:06:45 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
     "criteria": {
-      "killed_by": "2025-01-04 05:08:38 +0000"
+      "has_brimwood_planks": "2025-01-04 05:06:53 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
     "criteria": {
-      "has_silver_ingot": "2025-01-04 07:05:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-04 07:22:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_door": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-01-04 07:05:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:downer": {
-    "criteria": {
-      "dorcel": "2025-01-04 05:11:13 +0000"
+      "has_brimwood_planks": "2025-01-04 05:06:53 +0000"
     },
     "done": true
   },
@@ -8036,27 +7947,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
-    "criteria": {
-      "has_log": "2025-01-04 05:06:45 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/brimwood_button": {
     "criteria": {
       "has_brimwood_planks": "2025-01-04 05:06:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-01-04 07:49:53 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-01-04 06:57:36 +0000"
     },
     "done": true
   },
@@ -8066,64 +7959,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-01-04 06:34:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2025-01-04 05:46:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-01-04 07:03:59 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
     "criteria": {
       "has_brimwood_planks": "2025-01-04 05:06:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/deathworm_egg": {
-    "criteria": {
-      "egg": "2025-01-04 07:50:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-01-04 07:03:59 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2025-01-04 06:58:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/magnolia_sign": {
-    "criteria": {
-      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2025-01-04 04:52:34 +0000",
-      "inv_changed-diamond": "2025-01-04 04:52:34 +0000"
     },
     "done": true
   },
@@ -8133,15 +7971,177 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/brimwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_brimwood_log": "2025-01-04 05:07:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_brimwood_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 05:07:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-04 05:08:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-01-04 05:11:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-01-04 05:46:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-01-04 05:46:26 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/magnolia_button": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2025-01-04 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-01-04 06:34:39 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_snowy": "2025-01-04 06:57:36 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-04 06:57:36 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-01-04 06:58:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-04 07:03:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-04 07:03:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-01-04 07:03:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-04 07:05:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-04 07:05:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-04 07:12:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-04 07:22:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-04 07:49:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-01-04 07:49:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2025-01-04 07:50:09 +0000"
     },
     "done": true
   },

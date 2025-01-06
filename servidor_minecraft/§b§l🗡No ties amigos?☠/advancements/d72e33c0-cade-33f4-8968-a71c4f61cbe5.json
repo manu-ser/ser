@@ -7600,6 +7600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-04 08:10:54 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2025-01-04 07:21:20 +0000"
@@ -7609,6 +7615,12 @@
   "nova_structures:adventure/find_tavern": {
     "criteria": {
       "nova_structures:tavern_snowy": "2025-01-04 07:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 08:10:54 +0000"
     },
     "done": true
   },
