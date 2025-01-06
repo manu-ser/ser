@@ -7472,3 +7472,32 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jan2025 04:41:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1871, y:70, z:302, dim:minecraft:overworld]
 [06Jan2025 04:41:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
 [06Jan2025 04:42:05.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[06Jan2025 04:42:56.639] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[06Jan2025 04:42:56.643] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[06Jan2025 04:43:06.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[06Jan2025 04:44:08.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[06Jan2025 04:44:08.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[06Jan2025 04:44:44.385] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[06Jan2025 04:44:44.389] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[06Jan2025 04:44:53.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[06Jan2025 04:45:01.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[06Jan2025 04:48:02.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Splintering II]
+[06Jan2025 04:48:11.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [A Flaming Sword]
+[06Jan2025 04:48:52.378] [Worker-Main-74/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:48:52.381] [Worker-Main-74/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:48:52.382] [Worker-Main-74/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:48:52.382] [Worker-Main-74/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:48:52.383] [Worker-Main-74/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:48:52.389] [Worker-Main-74/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:48:52.390] [Worker-Main-74/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:48:52.390] [Worker-Main-74/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:48:52.390] [Worker-Main-74/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:48:53.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[06Jan2025 04:49:06.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [A Flaming Sword]
+[06Jan2025 04:49:08.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[06Jan2025 04:49:08.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[06Jan2025 04:50:02.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[06Jan2025 04:50:06.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [A Flaming Sword]
+[06Jan2025 04:51:13.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1860, y:83, z:782, dim:minecraft:overworld]
+[06Jan2025 04:52:04.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[06Jan2025 04:52:23.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
