@@ -586,3 +586,15 @@
 [06Jan2025 05:52:54.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
 [06Jan2025 05:52:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
 [06Jan2025 05:52:54.112] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[06Jan2025 06:09:20.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jan2025 06:09:20.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jan2025 06:09:20.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jan2025 06:09:20.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jan2025 06:09:20.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[🗡No ties amigos?☠]'/minecraft:overworld
+[06Jan2025 06:09:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[🗡No ties amigos?☠]'/minecraft:the_end
+[06Jan2025 06:09:21.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[🗡No ties amigos?☠]'/minecraft:the_nether
+[06Jan2025 06:09:21.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (🗡No ties amigos?☠): All chunks are saved
+[06Jan2025 06:09:21.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jan2025 06:09:21.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jan2025 06:09:21.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jan2025 06:09:21.483] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
