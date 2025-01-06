@@ -65,6 +65,7 @@
       "willow_forest": "2024-12-11 07:35:47 +0000",
       "frozen_tundra": "2024-12-19 23:54:13 +0000",
       "rocky_reef": "2025-01-02 03:12:51 +0000",
+      "redstone_caves": "2025-01-06 03:07:08 +0000",
       "poppy_fields": "2025-01-04 06:43:24 +0000",
       "grassy_beach": "2024-12-11 05:53:51 +0000",
       "scorching_caves": "2024-12-12 06:19:42 +0000",
@@ -1636,6 +1637,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-01-06 03:07:08 +0000",
       "scorching_caves": "2024-12-12 06:19:42 +0000",
       "bioshroom_caves": "2024-12-11 06:15:31 +0000"
     },
@@ -2304,6 +2306,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-11 06:47:25 +0000",
+      "sweet_berries": "2025-01-06 03:45:37 +0000",
       "cooked_beef": "2024-12-12 03:04:18 +0000",
       "baked_potato": "2024-12-11 22:30:59 +0000",
       "beef": "2024-12-29 07:53:09 +0000",
@@ -7669,15 +7672,105 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-06 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blue_bioshroom_hyphae": {
     "criteria": {
       "has_log": "2025-01-06 02:24:12 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-01-06 03:07:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-06 03:14:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blue_bioshroom_planks": {
     "criteria": {
       "has_logs": "2025-01-06 02:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-06 03:14:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_fence": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_slab": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_sign": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_button": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-01-06 03:07:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-06 03:26:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_stairs": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_door": {
+    "criteria": {
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
     },
     "done": true
   },

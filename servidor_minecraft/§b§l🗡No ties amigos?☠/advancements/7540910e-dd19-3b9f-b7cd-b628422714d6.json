@@ -66,6 +66,7 @@
       "willow_forest": "2024-12-11 07:35:49 +0000",
       "frozen_tundra": "2024-12-18 05:17:48 +0000",
       "rocky_reef": "2025-01-02 04:01:26 +0000",
+      "redstone_caves": "2025-01-06 03:12:46 +0000",
       "grassy_beach": "2024-12-11 05:52:02 +0000",
       "scorching_caves": "2024-12-11 06:33:27 +0000",
       "blackwood_taiga": "2024-12-11 07:08:36 +0000",
@@ -1971,6 +1972,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-01-06 03:12:46 +0000",
       "scorching_caves": "2024-12-11 06:33:27 +0000",
       "bioshroom_caves": "2024-12-11 06:13:20 +0000",
       "ancient_delta": "2024-12-12 06:42:09 +0000"
@@ -8208,6 +8210,108 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-06 02:19:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/green_bioshroom_fence_gate": {
+    "criteria": {
+      "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 03:19:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 03:19:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/green_bioshroom_fence": {
+    "criteria": {
+      "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 03:19:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/green_bioshroom_button": {
+    "criteria": {
+      "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-06 03:13:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_bioshroom_stairs": {
+    "criteria": {
+      "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-06 03:19:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/green_bioshroom_sign": {
+    "criteria": {
+      "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 03:19:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-06 03:13:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/green_bioshroom_pressure_plate": {
+    "criteria": {
+      "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/green_bioshroom_door": {
+    "criteria": {
+      "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_bioshroom_slab": {
+    "criteria": {
+      "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/green_bioshroom_trapdoor": {
+    "criteria": {
+      "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-01-06 03:19:10 +0000"
     },
     "done": true
   },
