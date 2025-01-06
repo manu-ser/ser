@@ -8243,9 +8243,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 04:17:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-01-06 03:19:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-01-06 04:17:19 +0000"
     },
     "done": true
   },
@@ -8291,6 +8303,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 04:17:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/green_bioshroom_sign": {
     "criteria": {
       "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
@@ -8315,6 +8333,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 04:17:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-01-06 03:13:54 +0000"
@@ -8324,6 +8348,12 @@
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 04:07:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 04:17:19 +0000"
     },
     "done": true
   },
