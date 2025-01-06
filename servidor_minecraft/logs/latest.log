@@ -479,3 +479,33 @@
 [06Jan2025 05:02:08.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
 [06Jan2025 05:02:12.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Paavali'/79770, l='ServerLevel[🗡No ties amigos?☠]', x=1778.22, y=64.00, z=841.74] died, message: 'Paavali was slain by Dread Beast'
 [06Jan2025 05:02:12.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Paavali'/79770, l='ServerLevel[🗡No ties amigos?☠]', x=1778.22, y=64.00, z=841.74] died: Paavali was slain by Dread Beast
+[06Jan2025 05:04:34.009] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[06Jan2025 05:04:34.012] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[06Jan2025 05:05:08.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dread Knight
+[06Jan2025 05:05:39.362] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[06Jan2025 05:05:39.376] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[06Jan2025 05:05:49.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dread Knight
+[06Jan2025 05:06:18.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.29.133.87:55893] logged in with entity id 84540 at (1818.6739483444785, 63.0, 784.5331281929964)
+[06Jan2025 05:06:18.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[06Jan2025 05:06:19.910] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[06Jan2025 05:06:19.910] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[06Jan2025 05:06:57.158] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[06Jan2025 05:06:57.173] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[06Jan2025 05:07:07.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dread Beast
+[06Jan2025 05:07:21.657] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[06Jan2025 05:07:21.672] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[06Jan2025 05:07:32.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dread Ghoul
+[06Jan2025 05:07:45.057] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[06Jan2025 05:07:45.066] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[06Jan2025 05:08:12.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dread Beast
+[06Jan2025 05:08:21.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[06Jan2025 05:08:26.487] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[06Jan2025 05:08:26.501] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[06Jan2025 05:08:49.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dread Beast
+[06Jan2025 05:09:42.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has reached the goal [You Need a Mint]
+[06Jan2025 05:10:23.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[06Jan2025 05:10:23.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved wrongly!
+[06Jan2025 05:11:16.023] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilija'/87799, l='ServerLevel[🗡No ties amigos?☠]', x=2250.30, y=65.31, z=670.70] died, message: 'Ilija was slain by Dread Ghoul'
+[06Jan2025 05:11:16.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilija'/87799, l='ServerLevel[🗡No ties amigos?☠]', x=2250.30, y=65.31, z=670.70] died: Ilija was slain by Dread Ghoul
+[06Jan2025 05:13:01.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4134ms or 82 ticks behind
+[06Jan2025 05:13:39.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
