@@ -509,3 +509,57 @@
 [06Jan2025 05:11:16.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilija'/87799, l='ServerLevel[🗡No ties amigos?☠]', x=2250.30, y=65.31, z=670.70] died: Ilija was slain by Dread Ghoul
 [06Jan2025 05:13:01.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4134ms or 82 ticks behind
 [06Jan2025 05:13:39.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06Jan2025 05:13:59.626] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jan2025 05:13:59.628] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[06Jan2025 05:13:59.631] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 54 baked_potato
+[06Jan2025 05:13:59.631] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 13 torch
+[06Jan2025 05:13:59.633] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[06Jan2025 05:13:59.881] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jan2025 05:13:59.882] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[06Jan2025 05:13:59.882] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 54 baked_potato
+[06Jan2025 05:13:59.883] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 13 torch
+[06Jan2025 05:13:59.883] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[06Jan2025 05:14:00.129] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jan2025 05:14:00.130] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[06Jan2025 05:14:00.131] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 54 baked_potato
+[06Jan2025 05:14:00.131] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 13 torch
+[06Jan2025 05:14:00.131] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[06Jan2025 05:14:00.407] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jan2025 05:14:00.408] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[06Jan2025 05:14:00.409] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 54 baked_potato
+[06Jan2025 05:14:00.409] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 13 torch
+[06Jan2025 05:14:00.410] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[06Jan2025 05:14:00.621] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jan2025 05:14:00.622] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[06Jan2025 05:14:00.622] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 54 baked_potato
+[06Jan2025 05:14:00.623] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 13 torch
+[06Jan2025 05:14:00.623] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[06Jan2025 05:14:00.870] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jan2025 05:14:00.871] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[06Jan2025 05:14:00.871] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 54 baked_potato
+[06Jan2025 05:14:00.871] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 13 torch
+[06Jan2025 05:14:00.872] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[06Jan2025 05:14:01.124] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jan2025 05:14:01.124] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[06Jan2025 05:14:01.125] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 54 baked_potato
+[06Jan2025 05:14:01.125] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 13 torch
+[06Jan2025 05:14:01.126] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[06Jan2025 05:14:01.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[06Jan2025 05:14:21.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5242ms or 104 ticks behind
+[06Jan2025 05:17:54.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[06Jan2025 05:17:54.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[06Jan2025 05:17:54.118] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[06Jan2025 05:18:07.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.29.133.87:45733] logged in with entity id 94660 at (804.3028054494431, 72.0, 26.510214898863794)
+[06Jan2025 05:18:07.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[06Jan2025 05:18:09.256] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[06Jan2025 05:18:09.266] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[06Jan2025 05:20:17.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[06Jan2025 05:20:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> zzz irelia diff
+[06Jan2025 05:20:33.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> jungla diff
+[06Jan2025 05:20:39.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> supp zzzz
+[06Jan2025 05:29:15.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[06Jan2025 05:29:38.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=832, y=50, z=-23} BlockPos{x=832, y=49, z=-22}
+[06Jan2025 05:29:56.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[06Jan2025 05:31:50.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1418, y:71, z:1055, dim:minecraft:overworld]
+[06Jan2025 05:32:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1606, y:78, z:1114, dim:minecraft:overworld]
+[06Jan2025 05:33:49.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [The Song of the Dragons]

@@ -8231,6 +8231,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 05:30:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 03:19:10 +0000"
@@ -8261,6 +8267,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 05:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 04:21:07 +0000"
@@ -8288,6 +8300,18 @@
   "regions_unexplored:recipes/redstone/green_bioshroom_button": {
     "criteria": {
       "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-01-06 05:30:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 05:30:19 +0000"
     },
     "done": true
   },
@@ -8378,6 +8402,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-01-06 04:48:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 05:30:19 +0000"
     },
     "done": true
   },
