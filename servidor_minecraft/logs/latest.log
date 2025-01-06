@@ -221,3 +221,12 @@
 [06Jan2025 02:03:00.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
 [06Jan2025 02:03:00.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
 [06Jan2025 02:03:00.206] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[06Jan2025 02:08:04.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.29.133.87:46713] logged in with entity id 1568 at (810.5516929679262, 72.0, 25.994284212630447)
+[06Jan2025 02:08:04.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[06Jan2025 02:08:06.591] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[06Jan2025 02:08:06.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[06Jan2025 02:13:00.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:50619] logged in with entity id 2284 at (825.4572304625475, 63.0, -26.91659897142793)
+[06Jan2025 02:13:01.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[06Jan2025 02:13:02.013] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[06Jan2025 02:13:02.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[06Jan2025 02:17:07.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
