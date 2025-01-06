@@ -8237,6 +8237,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 04:07:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-01-06 03:19:10 +0000"
@@ -8261,15 +8267,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-06 04:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-06 04:03:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-01-06 03:19:11 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-01-06 04:07:29 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/green_bioshroom_sign": {
     "criteria": {
       "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 04:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-01-06 04:03:25 +0000"
     },
     "done": true
   },
@@ -8285,9 +8321,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 04:07:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 04:07:29 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/green_bioshroom_pressure_plate": {
     "criteria": {
       "has_green_bioshroom_planks": "2025-01-06 03:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-01-06 04:03:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-06 04:06:04 +0000"
     },
     "done": true
   },

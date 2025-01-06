@@ -8492,6 +8492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-06 04:03:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-01-06 03:04:03 +0000"
@@ -8507,6 +8513,12 @@
   "regions_unexplored:recipes/misc/brown_dye_from_cattail": {
     "criteria": {
       "has_cattail": "2025-01-06 03:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-01-06 04:03:22 +0000"
     },
     "done": true
   },

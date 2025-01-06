@@ -7672,25 +7672,25 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-01-06 03:16:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
-    "criteria": {
-      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/blue_bioshroom_hyphae": {
     "criteria": {
       "has_log": "2025-01-06 02:24:12 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_planks": {
+    "criteria": {
+      "has_logs": "2025-01-06 02:24:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-01-06 03:07:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2025-01-06 03:07:31 +0000"
     },
@@ -7702,21 +7702,33 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-01-06 03:14:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-06 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-06 03:26:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
     "criteria": {
       "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/blue_bioshroom_planks": {
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
     "criteria": {
-      "has_logs": "2025-01-06 02:24:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
-    "criteria": {
-      "has_raw_redstone_block": "2025-01-06 03:14:12 +0000"
+      "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
     },
     "done": true
   },
@@ -7741,18 +7753,6 @@
   "regions_unexplored:recipes/redstone/brimwood_button": {
     "criteria": {
       "has_brimwood_planks": "2025-01-06 03:37:31 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
-    "criteria": {
-      "has_redstone_bulb": "2025-01-06 03:07:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-01-06 03:26:57 +0000"
     },
     "done": true
   },
