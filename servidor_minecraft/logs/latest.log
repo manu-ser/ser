@@ -230,3 +230,33 @@
 [06Jan2025 02:13:02.013] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
 [06Jan2025 02:13:02.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
 [06Jan2025 02:17:07.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
+[06Jan2025 02:17:26.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4004ms or 80 ticks behind
+[06Jan2025 02:23:01.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=96, y=10, z=196} BlockPos{x=96, y=10, z=228}
+[06Jan2025 02:24:17.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has completed the challenge [Back In My day...]
+[06Jan2025 02:27:09.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3002ms or 60 ticks behind
+[06Jan2025 02:27:58.794] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:28:00.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:36:56.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[06Jan2025 02:36:56.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[06Jan2025 02:36:56.567] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[06Jan2025 02:36:56.641] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jan2025 02:37:23.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:41271] logged in with entity id 14777 at (795.0262290527791, 76.0, 8.818798700011616)
+[06Jan2025 02:37:23.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[06Jan2025 02:37:24.114] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[06Jan2025 02:37:24.118] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[06Jan2025 02:38:42.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Mayor]
+[06Jan2025 02:53:48.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[06Jan2025 02:57:20.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[06Jan2025 02:57:24.935] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[06Jan2025 02:57:24.949] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[06Jan2025 02:57:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[06Jan2025 02:58:05.002] [Worker-Main-73/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 02:58:05.006] [Worker-Main-73/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 02:58:05.008] [Worker-Main-73/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 02:58:05.009] [Worker-Main-73/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 02:58:05.027] [Worker-Main-73/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 02:58:08.181] [Worker-Main-73/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 02:58:08.183] [Worker-Main-73/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 02:58:08.184] [Worker-Main-73/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 02:58:08.185] [Worker-Main-73/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 03:03:31.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/26330, l='ServerLevel[🗡No ties amigos?☠]', x=960.50, y=55.00, z=-65.50]

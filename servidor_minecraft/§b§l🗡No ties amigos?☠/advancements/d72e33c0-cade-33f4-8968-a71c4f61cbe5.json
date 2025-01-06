@@ -172,6 +172,7 @@
       "magnolia_log": "2024-12-12 01:39:58 +0000",
       "willow_log": "2024-12-12 01:39:15 +0000",
       "yellow_bioshroom_stem": "2024-12-12 14:36:49 +0000",
+      "blue_bioshroom_stem": "2025-01-06 02:24:12 +0000",
       "pine_log": "2024-12-20 01:31:05 +0000",
       "silver_birch_log": "2024-12-11 19:29:36 +0000",
       "small_oak_log": "2025-01-02 00:41:56 +0000",
@@ -1067,6 +1068,7 @@
       "minecraft:lukewarm_ocean": "2024-12-12 06:14:23 +0000",
       "minecraft:stony_shore": "2024-12-11 07:31:57 +0000",
       "minecraft:snowy_taiga": "2024-12-18 05:35:01 +0000",
+      "minecraft:dripstone_caves": "2025-01-06 02:54:55 +0000",
       "minecraft:swamp": "2024-12-20 01:24:52 +0000",
       "minecraft:grove": "2025-01-04 07:15:46 +0000",
       "minecraft:jagged_peaks": "2025-01-04 06:55:17 +0000",
@@ -4733,7 +4735,8 @@
   "regions_unexplored:ancient_specimens": {
     "criteria": {
       "yellow_bioshroom_stem": "2024-12-12 14:36:49 +0000",
-      "green_bioshroom_stem": "2024-12-12 06:21:17 +0000"
+      "green_bioshroom_stem": "2024-12-12 06:21:17 +0000",
+      "blue_bioshroom_stem": "2025-01-06 02:24:12 +0000"
     },
     "done": false
   },
@@ -7663,6 +7666,18 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-01-04 08:10:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-06 02:24:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_planks": {
+    "criteria": {
+      "has_logs": "2025-01-06 02:24:12 +0000"
     },
     "done": true
   },
