@@ -379,3 +379,31 @@
 [06Jan2025 04:06:06.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1133, y=65, z=-67} BlockPos{x=-1132, y=64, z=-67}
 [06Jan2025 04:06:06.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1133, y=65, z=-66} BlockPos{x=-1133, y=64, z=-67}
 [06Jan2025 04:10:12.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[06Jan2025 04:21:56.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jerzy'/60545, l='ServerLevel[🗡No ties amigos?☠]', x=1834.43, y=72.00, z=-183.45] died, message: 'Jerzy was slain by Zombie'
+[06Jan2025 04:21:56.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jerzy'/60545, l='ServerLevel[🗡No ties amigos?☠]', x=1834.43, y=72.00, z=-183.45] died: Jerzy was slain by Zombie
+[06Jan2025 04:23:22.720] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[06Jan2025 04:23:22.731] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[06Jan2025 04:23:30.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[06Jan2025 04:23:53.190] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[06Jan2025 04:23:53.193] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[06Jan2025 04:26:44.198] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-492, y=-58, z=250}
+[06Jan2025 04:26:46.686] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:26:46.688] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:26:46.690] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:26:46.692] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:26:47.906] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:26:47.908] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:26:47.909] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:26:47.910] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:26:50.082] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-59, z=251}
+[06Jan2025 04:26:50.860] [Worker-Main-10/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[06Jan2025 04:26:59.300] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-59, z=251}
+[06Jan2025 04:27:01.588] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-434, y=-59, z=255}
+[06Jan2025 04:27:01.590] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-426, y=-55, z=244}
+[06Jan2025 04:27:01.682] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=-59, z=251}
+[06Jan2025 04:27:10.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1902, y=72, z=-223} BlockPos{x=1902, y=70, z=-225}
+[06Jan2025 04:27:11.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1900, y=71, z=-222} BlockPos{x=1899, y=70, z=-223}
+[06Jan2025 04:27:14.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1903, y=72, z=-226} BlockPos{x=1904, y=70, z=-227}
+[06Jan2025 04:27:14.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1903, y=72, z=-226} BlockPos{x=1904, y=70, z=-227}
+[06Jan2025 04:31:01.767] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-434, y=-59, z=255}
+[06Jan2025 04:31:01.770] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-426, y=-55, z=244}
