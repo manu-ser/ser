@@ -228,3 +228,21 @@
 [27Jan2025 18:40:02.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6341ms or 126 ticks behind
 [27Jan2025 18:45:25.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 19.359860125769842,1.1789000294685366,4.624361629707117
 [27Jan2025 18:45:46.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3046ms or 60 ticks behind
+[27Jan2025 18:49:32.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[27Jan2025 18:54:50.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[27Jan2025 18:54:50.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[27Jan2025 18:54:50.645] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[27Jan2025 18:55:26.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.249.229.253:56119] logged in with entity id 4468 at (835.48463616861, 63.0, -48.31641687518159)
+[27Jan2025 18:55:26.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[27Jan2025 18:55:27.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[27Jan2025 18:55:27.864] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[27Jan2025 19:02:23.165] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[27Jan2025 19:02:23.169] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[27Jan2025 19:02:35.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN fell from a high place
+[27Jan2025 19:04:15.638] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[27Jan2025 19:04:15.649] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[27Jan2025 19:04:17.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN boiled away whilst trying to escape Trial Guardian
+[27Jan2025 19:04:17.820] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[27Jan2025 19:05:17.383] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[27Jan2025 19:05:17.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[27Jan2025 19:05:17.395] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
